@@ -45,7 +45,7 @@ export default function Home() {
         </div>
 
         <a 
-          href="https://strtly.gumroad.com/l/ai-assistant-guide"
+          href="https://clawstrider.gumroad.com/l/rmirrh"
           style={{
             display: 'inline-block',
             background: '#4ade80',
